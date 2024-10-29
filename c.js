@@ -112,7 +112,6 @@
 			backSpeed: 30
 		});
 	}
-
 	/*--/ Testimonials owl /--*/
 	$('#testimonial-mf').owlCarousel({
 		margin: 20,
