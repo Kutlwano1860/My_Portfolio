@@ -1,4 +1,4 @@
-# Personal Portfolio 🌐
+Personal Portfolio 🌐
 =======================
 Overview
 This Personal Portfolio Project is a simple yet elegant representation of my skills, experience, and projects as a software developer. Built entirely with HTML, CSS, and JavaScript, the portfolio showcases my journey, technical abilities, and completed projects. It is designed to provide potential employers and collaborators with an insight into my work.
